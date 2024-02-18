@@ -80,7 +80,7 @@ export default function Home() {
       <Section2 />
       <Section3 />
       <BubblesAnimation />
-      <Footer/>
+      <Footer />
     </>
   );
 }
